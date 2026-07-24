@@ -11,15 +11,17 @@
               ██████╔╝██║  ██║██║  ██║███████╗╚██████╔╝██║ ╚████║
               ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
-              Intelligence Beyond Limits...
-
 <p>
-Research • Foundation Models • AI Infrastructure • Software Engineering
+              Intelligence Beyond Limits...
 </p>
+<p>
+              Research • Foundation Models • AI Infrastructure • Software Engineering
+</p>
+
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=7C3AED&center=true&vCenter=true&width=900&lines=Building+Sovereign+Artificial+Intelligence;Creating+Foundation+Models;Developing+AI+Infrastructure;Engineering+the+Future" />
+<img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=af6237&center=true&vCenter=true&width=900&lines=Building+Sovereign+Artificial+Intelligence;Creating+Foundation+Models;Developing+AI+Infrastructure;Engineering+the+Future" />
 
 <br><br>
 
@@ -43,17 +45,22 @@ Research • Foundation Models • AI Infrastructure • Software Engineering
 
 </p>
 
-<br>
+<div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=braegn&style=for-the-badge&color=7C3AED"/>
+  <!-- Live Profile Views (Komarev) -->
+  <img src="https://komarev.com/ghpvc/?username=Braegn&style=for-the-badge&color=af6237&label=VISITORS" alt="Profile Views" />
 
-<img src="https://img.shields.io/github/followers/braegn?style=for-the-badge&color=7C3AED"/>
+  <!-- Live Followers Count (Shields.io) -->
+  <img src="https://img.shields.io/github/followers/Braegn?style=for-the-badge&color=af6237&label=FOLLOWERS" alt="Followers" />
 
-<img src="https://img.shields.io/github/stars/braegn?style=for-the-badge&color=7C3AED"/>
+  <!-- Live Following Count (Shields.io Dynamic JSON) -->
+  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Braegn&query=$.following&style=for-the-badge&color=af6237&label=FOLLOWING" alt="Following" />
+
+  <!-- Live Total Stars Count (Shields.io) -->
+  <img src="https://img.shields.io/github/stars/Braegn?style=for-the-badge&color=af6237&label=STARS" alt="Stars" />
 
 </div>
 
----
 
 # About Brægn
 
