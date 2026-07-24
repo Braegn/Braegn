@@ -53,9 +53,6 @@
   <!-- Live Followers Count (Shields.io) -->
   <img src="https://img.shields.io/github/followers/Braegn?style=for-the-badge&color=af6237&label=FOLLOWERS" alt="Followers" />
 
-  <!-- Live Following Count (Shields.io Dynamic JSON) -->
-  <img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/Braegn&query=$.following&style=for-the-badge&color=af6237&label=FOLLOWING" alt="Following" />
-
   <!-- Live Total Stars Count (Shields.io) -->
   <img src="https://img.shields.io/github/stars/Braegn?style=for-the-badge&color=af6237&label=STARS" alt="Stars" />
 
