@@ -53,11 +53,13 @@
   <!-- Live Followers Count (Shields.io) -->
   <img src="https://img.shields.io/github/followers/Braegn?style=for-the-badge&color=af6237&label=FOLLOWERS" alt="Followers" />
 
-  <!-- Live Total Stars Count (Shields.io) -->
-  <img src="https://img.shields.io/github/stars/Braegn?style=for-the-badge&color=af6237&label=STARS" alt="Stars" />
-
+<!-- Live Total Stars Count (All Repositories) -->
+  <img src="https://img.shields.io/github/stars/Braegn?affiliations=OWNER&style=for-the-badge&color=af6237&label=STARS" alt="Total Stars" />
 </div>
 
+# Vision
+
+To build reliable, intelligent, and human-centered AI systems that advance productivity, research, ‎software development, and everyday problem solving through innovative artificial intelligence. 
 
 # About Brægn
 
@@ -65,7 +67,10 @@ Brægn is an artificial intelligence research and engineering organization dedic
 
 Our mission is to create intelligent systems that combine deep reasoning, reliable software engineering, and scalable infrastructure to empower developers, researchers, startups, and enterprises.
 
+</div>
+
 ---
+<Div align="center">
 
 # Core Focus
 
@@ -78,33 +83,243 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 | ☁ Infrastructure | High-performance AI platforms |
 | 🌍 Open Source | Tools for the global developer community |
 
+
 ---
 
 # Current Ecosystem
 
-```text
-Brægn
+<div align="center">
 
-├── Shadow
-│   AI Software Engineer
-│
-├── Heart
-│   Language Intelligence
-│
-├── Brain
-│   Advanced Reasoning
-│
-├── Alpha
-│   General AI Assistant
-│
-└── Hands
-    Autonomous Agent Platform
+| Platform | Purpose | Status |
+|:---------:|:--------|:------:|
+| 🧠 **Brain** | Advanced reasoning & research models | 🚧 In Development |
+| ❤️ **Heart** | General language intelligence | 🚧 In Development |
+| ⚡ **Shadow** | Software engineering intelligence | 🚧 In Development |
+| 🤖 **Alpha** | Everyday AI assistant | 🚧 In Development |
+| 🖐 **Hands** | Autonomous multi-agent execution platform | 🚧 In Development |
+| 💻 **Strings** | AI-native IDE & developer workspace | 🚧 In Development |
+| 🧬 **Labs** | Experimental AI research initiatives | 🔬 Research |
+
+</div>
+
+---
+
+# Research Areas
+
+<div align="center">
+
+| |
+|---|
+| 🧠 Foundation Models |
+| 🤖 AI Agents |
+| ⚡ Software Engineering Intelligence |
+| 🔬 Reasoning Systems |
+| 🧩 Long-Term Memory |
+| 🏗 AI Infrastructure |
+| 🌐 Distributed Intelligence |
+| 📚 Knowledge Systems |
+| 🔒 AI Safety & Reliability |
+| 🚀 Performance Optimization |
+
+</div>
+
+---
+
+# Technology Stack
+
+<div align="center">
+
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp,go" />
+
+### AI & Machine Learning
+
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+
+### Frontend
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+
+### Backend
+
+<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
+
+### Databases
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+
+### Infrastructure
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,cloudflare,github,git" />
+
+</div>
+
+---
+
+# Featured Projects
+
+<table>
+
+<tr>
+
+<td width="50%">
+
+## ⚡ Shadow
+
+AI Software Engineering Intelligence
+
+- Code Generation
+- Debugging
+- Architecture
+- Refactoring
+- Testing
+- Deployment
+
+</td>
+
+<td width="50%">
+
+## ❤️ Heart
+
+Language Intelligence Platform
+
+- Conversation
+- Reasoning
+- Writing
+- Translation
+- Knowledge
+- Assistance
+
+</td>
+
+</tr>
+
+<tr>
+
+<td>
+
+## 🧠 Brain
+
+Research Foundation Model
+
+- Long Context
+- Planning
+- Memory
+- AGI Research
+- Scientific Reasoning
+
+</td>
+
+<td>
+
+## 🖐 Hands
+
+Autonomous AI Workforce
+
+- Agent Collaboration
+- Automation
+- Task Execution
+- Research
+- Development
+
+</td>
+
+</tr>
+
+</table>
+
+---
+
+# Philosophy
+
+```text
+Think Deeply.
+
+Build Carefully.
+
+Verify Everything.
+
+Ship Quality.
+
+Scale Responsibly.
 ```
 
 ---
 
-<div align="center">
+# Mission
 
-## Building technology for the next generation of intelligence.
+> **To build sovereign artificial intelligence that is reliable, transparent, and accessible—empowering developers, researchers, startups, enterprises, and society through world-class AI systems.**
 
-</div>
+---
+
+# Vision
+
+To become a global AI research and engineering company developing foundation models, intelligent software, and AI infrastructure that advance technology while remaining open, trustworthy, and human-centered.
+
+---
+
+# Principles
+
+✔ Research First
+
+✔ Engineering Excellence
+
+✔ Open Innovation
+
+✔ Long-Term Thinking
+
+✔ Privacy by Design
+
+✔ Reliability over Hype
+
+✔ Continuous Learning
+
+✔ Global Impact
+
+---
+
+# Repository Highlights
+
+| Repository | Description |
+|------------|-------------|
+| Shadow | AI Software Engineering Model |
+| Heart | Language Intelligence |
+| Brain | Foundation Model Research |
+| Hands | Autonomous Agent Platform |
+| Strings | AI Development Environment |
+| Labs | Experimental Research Projects |
+
+---
+
+# Development Roadmap
+
+```text
+2026  ██████████  Foundation
+
+2027  ████████░░  Core Models
+
+2028  ██████░░░░  Agent Ecosystem
+
+2029  ████░░░░░░  AI Infrastructure
+
+2030  ██░░░░░░░░  Global Scale
+```
+
+---
+
+# Engineering Values
+
+```
+Research before assumptions.
+
+Evidence before opinions.
+
+Quality before quantity.
+
+Reliability before speed.
+
+Long-term vision over short-term trends.
+```
+
+---
