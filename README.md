@@ -84,7 +84,6 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 | 🌍 Open Source | Tools for the global developer community |
 
 
----
 
 # Current Ecosystem
 
@@ -95,14 +94,13 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 | 🧠 **Brain** | Advanced reasoning & research models | 🚧 In Development |
 | ❤️ **Heart** | General language intelligence | 🚧 In Development |
 | ⚡ **Shadow** | Software engineering intelligence | 🚧 In Development |
-| 🤖 **Alpha** | Everyday AI assistant | 🚧 In Development |
 | 🖐 **Hands** | Autonomous multi-agent execution platform | 🚧 In Development |
 | 💻 **Strings** | AI-native IDE & developer workspace | 🚧 In Development |
 | 🧬 **Labs** | Experimental AI research initiatives | 🔬 Research |
 
 </div>
 
----
+
 
 # Research Areas
 
@@ -231,33 +229,9 @@ Autonomous AI Workforce
 
 ---
 
-# Philosophy
-
-```text
-Think Deeply.
-
-Build Carefully.
-
-Verify Everything.
-
-Ship Quality.
-
-Scale Responsibly.
-```
-
----
-
 # Mission
 
 > **To build sovereign artificial intelligence that is reliable, transparent, and accessible—empowering developers, researchers, startups, enterprises, and society through world-class AI systems.**
-
----
-
-# Vision
-
-To become a global AI research and engineering company developing foundation models, intelligent software, and AI infrastructure that advance technology while remaining open, trustworthy, and human-centered.
-
----
 
 # Principles
 
@@ -277,7 +251,6 @@ To become a global AI research and engineering company developing foundation mod
 
 ✔ Global Impact
 
----
 
 # Repository Highlights
 
