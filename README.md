@@ -11,7 +11,7 @@
 
 <td width="42%" align="center" valign="middle">
 
-<img src="assets/braegn.png" width="400" alt="Brægn"/>
+<img src="Assets/braegn.png" width="400" alt="braegn"/>
 
 </td>
 
@@ -52,15 +52,11 @@ AI Infrastructure • Software Engineering
 
 </div>
 
-<div align="center">
-
-<img src="assets/**braegn**.svg" width="100%" alt="Brægn Banner"/>
-
-
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=af6237&center=true&vCenter=true&width=900&lines=Building+Sovereign+Artificial+Intelligence;Creating+Foundation+Models;Developing+AI+Infrastructure;Engineering+the+Future" />
 
 <br><br>
 
+<div align="center">
 <p>
 
 <a href="https://braegn.com">
@@ -80,7 +76,7 @@ AI Infrastructure • Software Engineering
 </a>
 
 </p>
-
+</div>
 <div align="center">
 
   <!-- Live Profile Views (Komarev) -->
