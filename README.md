@@ -233,66 +233,329 @@ Autonomous AI Workforce
 
 > **To build sovereign artificial intelligence that is reliable, transparent, and accessible—empowering developers, researchers, startups, enterprises, and society through world-class AI systems.**
 
-# Principles
-
-✔ Research First
-
-✔ Engineering Excellence
-
-✔ Open Innovation
-
-✔ Long-Term Thinking
-
-✔ Privacy by Design
-
-✔ Reliability over Hype
-
-✔ Continuous Learning
-
-✔ Global Impact
+---
 
 
-# Repository Highlights
+# Engineering Dashboard
 
-| Repository | Description |
-|------------|-------------|
-| Shadow | AI Software Engineering Model |
-| Heart | Language Intelligence |
-| Brain | Foundation Model Research |
-| Hands | Autonomous Agent Platform |
-| Strings | AI Development Environment |
-| Labs | Experimental Research Projects |
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=braegn&show_icons=true&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=00E5FF&text_color=FFFFFF&ring_color=7C3AED&include_all_commits=true&count_private=true" width="49%" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=braegn&hide_border=true&background=050816&ring=7C3AED&fire=A855F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braegn&layout=compact&hide_border=true&bg_color=050816&title_color=A855F7&text_color=FFFFFF&langs_count=10" width="42%" />
+
+</div>
 
 ---
 
-# Development Roadmap
+# Contribution Activity
+
+<div align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=braegn&bg_color=050816&color=A855F7&line=7C3AED&point=00E5FF&area=true&hide_border=true" width="100%" />
+
+</div>
+
+---
+
+# Contribution Snake
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/braegn/braegn/output/github-contribution-grid-snake.svg" width="100%" alt="Brægn contribution snake"/>
+
+</div>
+
+---
+
+# Open Source Activity
+
+<div align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=braegn&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
+
+</div>
+
+---
+
+# Brægn by the Numbers
+
+<div align="center">
+
+<table>
+<tr>
+
+<td align="center" width="25%">
+
+### 🧠
+
+**AI RESEARCH**
+
+Foundation Models
+
+</td>
+
+<td align="center" width="25%">
+
+### ⚡
+
+**ENGINEERING**
+
+AI Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🤖
+
+**AGENTS**
+
+Autonomous Systems
+
+</td>
+
+<td align="center" width="25%">
+
+### 🌍
+
+**MISSION**
+
+Sovereign AI
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+---
+
+# The Intelligence Stack
 
 ```text
-2026  ██████████  Foundation
-
-2027  ████████░░  Core Models
-
-2028  ██████░░░░  Agent Ecosystem
-
-2029  ████░░░░░░  AI Infrastructure
-
-2030  ██░░░░░░░░  Global Scale
+                         ┌─────────────────────┐
+                         │       BRÆGN         │
+                         │  AI Research Layer  │
+                         └──────────┬──────────┘
+                                    │
+                  ┌─────────────────┼─────────────────┐
+                  │                 │                 │
+                  ▼                 ▼                 ▼
+             ┌─────────┐       ┌─────────┐       ┌─────────┐
+             │  Brain  │       │  Heart  │       │ Shadow  │
+             │Reasoning│       │Language │       │ Coding  │
+             └────┬────┘       └────┬────┘       └────┬────┘
+                  │                 │                 │
+                  └─────────────────┼─────────────────┘
+                                    │
+                                    ▼
+                           ┌─────────────────┐
+                           │      Alpha      │
+                           │ General AI Layer│
+                           └────────┬────────┘
+                                    │
+                                    ▼
+                           ┌─────────────────┐
+                           │      Hands      │
+                           │ Agent Execution │
+                           └────────┬────────┘
+                                    │
+                                    ▼
+                           ┌─────────────────┐
+                           │     Strings     │
+                           │ AI Dev Platform │
+                           └─────────────────┘
 ```
 
 ---
 
-# Engineering Values
+# How Brægn Systems Connect
 
+```text
+                         USER
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Alpha    │
+                    └──────┬──────┘
+                           │
+                  ┌────────┴────────┐
+                  │                 │
+                  ▼                 ▼
+             ┌─────────┐       ┌─────────┐
+             │  Brain  │       │  Heart  │
+             │ Reason  │       │Language │
+             └────┬────┘       └────┬────┘
+                  │                 │
+                  └────────┬────────┘
+                           │
+                           ▼
+                    ┌─────────────┐
+                    │    Hands    │
+                    │ Orchestrate │
+                    └──────┬──────┘
+                           │
+              ┌────────────┼────────────┐
+              │            │            │
+              ▼            ▼            ▼
+          Research       Code         Execute
+              │            │            │
+              │            ▼            │
+              │        ┌────────┐       │
+              │        │ Shadow │       │
+              │        └───┬────┘       │
+              │            │            │
+              └────────────┼────────────┘
+                           │
+                           ▼
+                       RESULT
 ```
-Research before assumptions.
 
-Evidence before opinions.
+---
 
-Quality before quantity.
+# Engineering Workflow
 
-Reliability before speed.
+```text
+┌─────────────────────────────────────────────────────────┐
+│                      BRÆGN WORKFLOW                     │
+└─────────────────────────────────────────────────────────┘
 
-Long-term vision over short-term trends.
+        IDEA
+          │
+          ▼
+    ┌───────────┐
+    │  RESEARCH │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  DESIGN   │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  BUILD    │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   TEST    │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │  VERIFY   │
+    └─────┬─────┘
+          │
+          ▼
+    ┌───────────┐
+    │   SHIP    │
+    └─────┬─────┘
+          │
+          ▼
+       ITERATE
 ```
+
+---
+
+# Current Development
+
+<div align="center">
+
+```text
+╭────────────────────────────────────────────────────────╮
+│                                                        │
+│                 BRÆGN DEVELOPMENT                     │
+│                                                        │
+│   Research       ███████████████████░░░   ACTIVE      │
+│   Models        ████████████████░░░░░░   BUILDING     │
+│   Agents        ██████████████░░░░░░░░   BUILDING     │
+│   Infrastructure ███████████░░░░░░░░░░   EXPANDING    │
+│   Open Source    ████████░░░░░░░░░░░░   GROWING      │
+│                                                        │
+╰────────────────────────────────────────────────────────╯
+```
+
+</div>
+
+---
+
+# Featured Repositories
+
+<div align="center">
+
+<a href="https://github.com/braegn/Shadow">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Shadow&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/braegn/Heart">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Heart&theme=transparent&hide_border=true" />
+</a>
+
+<br>
+
+<a href="https://github.com/braegn/Brain">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Brain&theme=transparent&hide_border=true" />
+</a>
+
+<a href="https://github.com/braegn/Hands">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Hands&theme=transparent&hide_border=true" />
+</a>
+
+</div>
+
+---
+
+# Build With Brægn
+
+```text
+┌──────────────────────────────────────────────────────────┐
+│                                                          │
+│                    BUILD WITH BRÆGN                     │
+│                                                          │
+│  Foundation Models                                      │
+│  ├── Brain                                               │
+│  └── Heart                                               │
+│                                                          │
+│  Developer Intelligence                                 │
+│  └── Shadow                                              │
+│                                                          │
+│  Autonomous Intelligence                                 │
+│  └── Hands                                               │
+│                                                          │
+│  AI Development                                          │
+│  └── Strings                                             │
+│                                                          │
+│  General Intelligence                                    │
+│  └── Alpha                                               │
+│                                                          │
+└──────────────────────────────────────────────────────────┘
+```
+
+---
+
+<div align="center">
+
+## Research → Engineer → Verify → Ship
+
+<br>
+
+**Sovereignty First.**
+
+**Verified Before Shipped.**
+
+**Foundation Before Scale.**
+
+</div>
 
 ---
