@@ -1,8 +1,22 @@
-<div align="center">
+<br>
 
-<img src="assets/banner.svg" width="100%" alt="Brægn Banner"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AF6237&height=120&section=header" width="100%" alt="Brægn header"/>
 
 <br>
+
+<div align="center">
+
+<table>
+<tr>
+
+<td width="42%" align="center" valign="middle">
+
+<img src="assets/braegn.png" width="400" alt="Brægn"/>
+
+</td>
+
+<td width="58%" align="left" valign="middle">
+
 
               ██████╗ ██████╗  █████╗ ███████╗ ██████╗ ███╗   ██╗
               ██╔══██╗██╔══██╗██╔══██╗██╔════╝██╔════╝ ████╗  ██║
@@ -11,15 +25,37 @@
               ██████╔╝██║  ██║██║  ██║███████╗╚██████╔╝██║ ╚████║
               ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
+<div align="center">
+Intelligence Beyond Limits...
+
 <p>
-              Intelligence Beyond Limits...
-</p>
-<p>
-              Research • Foundation Models • AI Infrastructure • Software Engineering
+Research • Foundation Models
+AI Infrastructure • Software Engineering
 </p>
 
+<p>
+<code>RESEARCH</code>
+&nbsp;&nbsp;
+<code>ENGINEER</code>
+&nbsp;&nbsp;
+<code>VERIFY</code>
+&nbsp;&nbsp;
+<code>SHIP</code>
+</p>
 
-<br>
+</div>
+
+</td>
+
+</tr>
+</table>
+
+</div>
+
+<div align="center">
+
+<img src="assets/**braegn**.svg" width="100%" alt="Brægn Banner"/>
+
 
 <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&weight=600&size=24&duration=3000&pause=1000&color=af6237&center=true&vCenter=true&width=900&lines=Building+Sovereign+Artificial+Intelligence;Creating+Foundation+Models;Developing+AI+Infrastructure;Engineering+the+Future" />
 
@@ -233,311 +269,152 @@ Autonomous AI Workforce
 
 > **To build sovereign artificial intelligence that is reliable, transparent, and accessible—empowering developers, researchers, startups, enterprises, and society through world-class AI systems.**
 
----
-
-
-# Engineering Dashboard
+# Contact Brægn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=braegn&show_icons=true&hide_border=true&bg_color=050816&title_color=A855F7&icon_color=00E5FF&text_color=FFFFFF&ring_color=7C3AED&include_all_commits=true&count_private=true" width="49%" />
+### Let's build what comes next.
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=braegn&hide_border=true&background=050816&ring=7C3AED&fire=A855F7&currStreakLabel=FFFFFF&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=888888" width="49%" />
-
-</div>
+Brægn is building sovereign artificial intelligence from Pakistan —
+from foundation models and reasoning systems to autonomous agents and developer infrastructure.
 
 <br>
 
-<div align="center">
+<a href="https://braegn.dev">
+<img src="https://img.shields.io/badge/Website-AF6237?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Brægn Website"/>
+</a>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=braegn&layout=compact&hide_border=true&bg_color=050816&title_color=A855F7&text_color=FFFFFF&langs_count=10" width="42%" />
+<a href="https://github.com/braegn">
+<img src="https://img.shields.io/badge/GitHub-AF6237?style=for-the-badge&logo=github&logoColor=white" alt="Brægn GitHub"/>
+</a>
 
-</div>
+<a href="https://www.linkedin.com/company/braegn/">
+<img src="https://img.shields.io/badge/LinkedIn-AF6237?style=for-the-badge&logo=linkedin&logoColor=white" alt="Brægn LinkedIn"/>
+</a>
 
----
+<a href="https://x.com/braegn">
+<img src="https://img.shields.io/badge/X-AF6237?style=for-the-badge&logo=x&logoColor=white" alt="Brægn X"/>
+</a>
 
-# Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=braegn&bg_color=050816&color=A855F7&line=7C3AED&point=00E5FF&area=true&hide_border=true" width="100%" />
-
-</div>
-
----
-
-# Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/braegn/braegn/output/github-contribution-grid-snake.svg" width="100%" alt="Brægn contribution snake"/>
+<br><br>
 
 </div>
 
 ---
 
-# Open Source Activity
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=braegn&theme=discord&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" width="100%" />
-
-</div>
-
----
-
-# Brægn by the Numbers
-
-<div align="center">
+## Connect With Brægn
 
 <table>
 <tr>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🧠
+### 🧠 Research
 
-**AI RESEARCH**
+Interested in AI research, foundation models, reasoning, memory, agents, or emerging intelligence systems?
 
-Foundation Models
+**Research with us.**
 
-</td>
+<br>
 
-<td align="center" width="25%">
-
-### ⚡
-
-**ENGINEERING**
-
-AI Systems
+<a href="mailto:research@braegn.dev">[research@braegn.dev](mailto:research@braegn.dev)</a>
 
 </td>
 
-<td align="center" width="25%">
+<td width="50%" valign="top">
 
-### 🤖
+### ⚡ Engineering
 
-**AGENTS**
+Building AI infrastructure, developer tools, software engineering systems, or open-source technology?
 
-Autonomous Systems
+**Build with us.**
+
+<br>
+
+<a href="mailto:engineering@braegn.dev">[engineering@braegn.dev](mailto:engineering@braegn.dev)</a>
 
 </td>
 
-<td align="center" width="25%">
+</tr>
 
-### 🌍
+<tr>
 
-**MISSION**
+<td width="50%" valign="top">
 
-Sovereign AI
+### 🤝 Collaboration
+
+For partnerships, technical collaboration, research opportunities, or ecosystem initiatives.
+
+**Start a conversation.**
+
+<br>
+
+<a href="mailto:hello@braegn.dev">[hello@braegn.dev](mailto:hello@braegn.dev)</a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 💼 Careers
+
+Interested in contributing to Brægn as an engineer, researcher, designer, or builder?
+
+**Join the mission.**
+
+<br>
+
+<a href="mailto:careers@braegn.dev">[careers@braegn.dev](mailto:careers@braegn.dev)</a>
 
 </td>
 
 </tr>
 </table>
 
-</div>
-
 ---
 
-# The Intelligence Stack
+## Open Source
 
-```text
-                         ┌─────────────────────┐
-                         │       BRÆGN         │
-                         │  AI Research Layer  │
-                         └──────────┬──────────┘
-                                    │
-                  ┌─────────────────┼─────────────────┐
-                  │                 │                 │
-                  ▼                 ▼                 ▼
-             ┌─────────┐       ┌─────────┐       ┌─────────┐
-             │  Brain  │       │  Heart  │       │ Shadow  │
-             │Reasoning│       │Language │       │ Coding  │
-             └────┬────┘       └────┬────┘       └────┬────┘
-                  │                 │                 │
-                  └─────────────────┼─────────────────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │      Alpha      │
-                           │ General AI Layer│
-                           └────────┬────────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │      Hands      │
-                           │ Agent Execution │
-                           └────────┬────────┘
-                                    │
-                                    ▼
-                           ┌─────────────────┐
-                           │     Strings     │
-                           │ AI Dev Platform │
-                           └─────────────────┘
-```
+Brægn believes that meaningful progress in artificial intelligence should be accelerated through engineering, research, experimentation, and open collaboration.
 
----
-
-# How Brægn Systems Connect
-
-```text
-                         USER
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    Alpha    │
-                    └──────┬──────┘
-                           │
-                  ┌────────┴────────┐
-                  │                 │
-                  ▼                 ▼
-             ┌─────────┐       ┌─────────┐
-             │  Brain  │       │  Heart  │
-             │ Reason  │       │Language │
-             └────┬────┘       └────┬────┘
-                  │                 │
-                  └────────┬────────┘
-                           │
-                           ▼
-                    ┌─────────────┐
-                    │    Hands    │
-                    │ Orchestrate │
-                    └──────┬──────┘
-                           │
-              ┌────────────┼────────────┐
-              │            │            │
-              ▼            ▼            ▼
-          Research       Code         Execute
-              │            │            │
-              │            ▼            │
-              │        ┌────────┐       │
-              │        │ Shadow │       │
-              │        └───┬────┘       │
-              │            │            │
-              └────────────┼────────────┘
-                           │
-                           ▼
-                       RESULT
-```
-
----
-
-# Engineering Workflow
-
-```text
-┌─────────────────────────────────────────────────────────┐
-│                      BRÆGN WORKFLOW                     │
-└─────────────────────────────────────────────────────────┘
-
-        IDEA
-          │
-          ▼
-    ┌───────────┐
-    │  RESEARCH │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │  DESIGN   │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │  BUILD    │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   TEST    │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │  VERIFY   │
-    └─────┬─────┘
-          │
-          ▼
-    ┌───────────┐
-    │   SHIP    │
-    └─────┬─────┘
-          │
-          ▼
-       ITERATE
-```
-
----
-
-# Current Development
+Explore our repositories, experiment with our projects, open issues, propose improvements, and build alongside us.
 
 <div align="center">
 
-```text
-╭────────────────────────────────────────────────────────╮
-│                                                        │
-│                 BRÆGN DEVELOPMENT                     │
-│                                                        │
-│   Research       ███████████████████░░░   ACTIVE      │
-│   Models        ████████████████░░░░░░   BUILDING     │
-│   Agents        ██████████████░░░░░░░░   BUILDING     │
-│   Infrastructure ███████████░░░░░░░░░░   EXPANDING    │
-│   Open Source    ████████░░░░░░░░░░░░   GROWING      │
-│                                                        │
-╰────────────────────────────────────────────────────────╯
-```
+<a href="https://github.com/braegn?tab=repositories">
+<img src="https://img.shields.io/badge/Explore%20Repositories-AF6237?style=for-the-badge&logo=github&logoColor=white" alt="Explore Brægn repositories"/>
+</a>
 
 </div>
 
 ---
 
-# Featured Repositories
+## Find Us
 
 <div align="center">
 
-<a href="https://github.com/braegn/Shadow">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Shadow&theme=transparent&hide_border=true" />
-</a>
+🇵🇰 **Pakistan**
 
-<a href="https://github.com/braegn/Heart">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Heart&theme=transparent&hide_border=true" />
-</a>
-
-<br>
-
-<a href="https://github.com/braegn/Brain">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Brain&theme=transparent&hide_border=true" />
-</a>
-
-<a href="https://github.com/braegn/Hands">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=braegn&repo=Hands&theme=transparent&hide_border=true" />
-</a>
+**Building from Pakistan.
+Engineering for the world.**
 
 </div>
 
 ---
 
-# Build With Brægn
+## Contact Protocol
 
 ```text
 ┌──────────────────────────────────────────────────────────┐
+│                    CONTACT BRÆGN                         │
+├──────────────────────────────────────────────────────────┤
 │                                                          │
-│                    BUILD WITH BRÆGN                     │
+│   RESEARCH       →  research@braegn.dev                  │
+│   ENGINEERING    →  engineering@braegn.dev               │
+│   COLLABORATION  →  hello@braegn.dev                     │
+│   CAREERS        →  careers@braegn.dev                   │
 │                                                          │
-│  Foundation Models                                      │
-│  ├── Brain                                               │
-│  └── Heart                                               │
-│                                                          │
-│  Developer Intelligence                                 │
-│  └── Shadow                                              │
-│                                                          │
-│  Autonomous Intelligence                                 │
-│  └── Hands                                               │
-│                                                          │
-│  AI Development                                          │
-│  └── Strings                                             │
-│                                                          │
-│  General Intelligence                                    │
-│  └── Alpha                                               │
+│   GITHUB         →  github.com/braegn                    │
+│   WEBSITE        →  braegn.dev                           │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
@@ -546,16 +423,22 @@ Sovereign AI
 
 <div align="center">
 
-## Research → Engineer → Verify → Ship
+### Have an idea?
+
+**Don't just talk about it. Build it.**
 
 <br>
 
-**Sovereignty First.**
+`RESEARCH` · `ENGINEER` · `VERIFY` · `SHIP`
 
-**Verified Before Shipped.**
+<br>
 
-**Foundation Before Scale.**
+<img src="https://capsule-render.vercel.app/api?type=waving&color=AF6237&height=120&section=footer" width="100%" alt="Brægn footer"/>
+
+<br>
+
+**Brægn**
+
+*Sovereignty First. Verified Before Shipped. Foundation Before Scale.*
 
 </div>
-
----
