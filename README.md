@@ -92,6 +92,7 @@ AI Infrastructure • Software Engineering
 </div>
 
 <div align="center">
+  
 # Vision
 
 To build reliable, intelligent, and human-centered AI systems that advance productivity, research, ‎software development, and everyday problem solving through innovative artificial intelligence. 
