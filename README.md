@@ -78,6 +78,7 @@ AI Infrastructure • Software Engineering
 
 </p>
 </div>
+
 <div align="center">
 
   <!-- Live Profile Views (Komarev) -->
@@ -90,6 +91,7 @@ AI Infrastructure • Software Engineering
   <img src="https://img.shields.io/github/stars/Braegn?affiliations=OWNER&style=for-the-badge&color=af6237&label=STARS" alt="Total Stars" />
 </div>
 
+<div align="center">
 # Vision
 
 To build reliable, intelligent, and human-centered AI systems that advance productivity, research, ‎software development, and everyday problem solving through innovative artificial intelligence. 
@@ -103,6 +105,8 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 </div>
 
 ---
+
+
 <Div align="center">
 
 # Core Focus
@@ -154,7 +158,7 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 
 </div>
 
----
+
 
 # Technology Stack
 
@@ -186,7 +190,6 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 
 </div>
 
----
 
 # Featured Projects
 
@@ -260,7 +263,6 @@ Autonomous AI Workforce
 
 </table>
 
----
 
 # Mission
 
@@ -297,7 +299,7 @@ from foundation models and reasoning systems to autonomous agents and developer 
 
 </div>
 
----
+
 
 ## Connect With Brægn
 
@@ -367,7 +369,7 @@ Interested in contributing to Brægn as an engineer, researcher, designer, or bu
 </tr>
 </table>
 
----
+
 
 ## Open Source
 
@@ -383,7 +385,7 @@ Explore our repositories, experiment with our projects, open issues, propose imp
 
 </div>
 
----
+
 
 ## Find Us
 
@@ -396,7 +398,7 @@ Engineering for the world.**
 
 </div>
 
----
+
 
 ## Contact Protocol
 
@@ -416,7 +418,6 @@ Engineering for the world.**
 └──────────────────────────────────────────────────────────┘
 ```
 
----
 
 <div align="center">
 
