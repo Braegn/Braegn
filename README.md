@@ -26,7 +26,8 @@
               ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝ ╚═════╝ ╚═╝  ╚═══╝
 
 <div align="center">
-Intelligence Beyond Limits...
+  
+<h3>Intelligence Beyond Limits...</h3>
 
 <p>
 Research • Foundation Models
