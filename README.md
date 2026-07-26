@@ -167,27 +167,27 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 
 ### Languages
 
-<img src="https://skillicons.dev/icons?i=python,typescript,javascript,rust,cpp,go" />
+<img src="https://skillicons.ai/icons?i=python,typescript,javascript,rust,cpp,go" />
 
 ### AI & Machine Learning
 
-<img src="https://skillicons.dev/icons?i=pytorch,tensorflow" />
+<img src="https://skillicons.ai/icons?i=pytorch,tensorflow" />
 
 ### Frontend
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,vite" />
+<img src="https://skillicons.ai/icons?i=react,nextjs,tailwind,vite" />
 
 ### Backend
 
-<img src="https://skillicons.dev/icons?i=nodejs,fastapi,django" />
+<img src="https://skillicons.ai/icons?i=nodejs,fastapi,django" />
 
 ### Databases
 
-<img src="https://skillicons.dev/icons?i=postgres,mongodb,redis,firebase,supabase" />
+<img src="https://skillicons.ai/icons?i=postgres,mongodb,redis,firebase,supabase" />
 
 ### Infrastructure
 
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,linux,cloudflare,github,git" />
+<img src="https://skillicons.ai/icons?i=docker,kubernetes,linux,cloudflare,github,git" />
 
 </div>
 
@@ -280,7 +280,7 @@ from foundation models and reasoning systems to autonomous agents and developer 
 
 <br>
 
-<a href="https://braegn.dev">
+<a href="https://braegn.ai">
 <img src="https://img.shields.io/badge/Website-AF6237?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Brægn Website"/>
 </a>
 
@@ -317,7 +317,7 @@ Interested in AI research, foundation models, reasoning, memory, agents, or emer
 
 <br>
 
-<a href="mailto:research@braegn.dev">[research@braegn.dev](mailto:research@braegn.dev)</a>
+<a href="mailto:research@braegn.ai">[research@braegn.ai](mailto:research@braegn.ai)</a>
 
 </td>
 
@@ -331,7 +331,7 @@ Building AI infrastructure, developer tools, software engineering systems, or op
 
 <br>
 
-<a href="mailto:engineering@braegn.dev">[engineering@braegn.dev](mailto:engineering@braegn.dev)</a>
+<a href="mailto:engineering@braegn.ai">[engineering@braegn.ai](mailto:engineering@braegn.ai)</a>
 
 </td>
 
@@ -349,7 +349,7 @@ For partnerships, technical collaboration, research opportunities, or ecosystem 
 
 <br>
 
-<a href="mailto:hello@braegn.dev">[hello@braegn.dev](mailto:hello@braegn.dev)</a>
+<a href="mailto:hello@braegn.ai">[hello@braegn.ai](mailto:hello@braegn.ai)</a>
 
 </td>
 
@@ -363,7 +363,7 @@ Interested in contributing to Brægn as an engineer, researcher, designer, or bu
 
 <br>
 
-<a href="mailto:careers@braegn.dev">[careers@braegn.dev](mailto:careers@braegn.dev)</a>
+<a href="mailto:careers@braegn.ai">[careers@braegn.ai](mailto:careers@braegn.ai)</a>
 
 </td>
 
@@ -408,13 +408,13 @@ Engineering for the world.**
 │                    CONTACT BRÆGN                         │
 ├──────────────────────────────────────────────────────────┤
 │                                                          │
-│   RESEARCH       →  research@braegn.dev                  │
-│   ENGINEERING    →  engineering@braegn.dev               │
-│   COLLABORATION  →  hello@braegn.dev                     │
-│   CAREERS        →  careers@braegn.dev                   │
+│   RESEARCH       →  research@braegn.ai                  │
+│   ENGINEERING    →  engineering@braegn.ai               │
+│   COLLABORATION  →  hello@braegn.ai                     │
+│   CAREERS        →  careers@braegn.ai                   │
 │                                                          │
 │   GITHUB         →  github.com/braegn                    │
-│   WEBSITE        →  braegn.dev                           │
+│   WEBSITE        →  braegn.ai                           │
 │                                                          │
 └──────────────────────────────────────────────────────────┘
 ```
