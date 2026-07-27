@@ -187,7 +187,7 @@ Our mission is to create intelligent systems that combine deep reasoning, reliab
 
 ### Infrastructure
 
-<img src="https://skillicons.ai/icons?i=docker,kubernetes,linux,cloudflare,github,git" />
+<img src="https://skillicons.ai/icons?i=docker,kubernetes,cloudflare,github,git" />
 
 </div>
 
